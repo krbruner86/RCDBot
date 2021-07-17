@@ -10,6 +10,9 @@ u/RCDBot
 ```
 and the bot will reply with links to the relevant RCDB.com webpages if a match is found.
 
+## Future
+In a future release the ability to add a search term after calling the bot will be implemented
+
 ## License
 MIT License
 
