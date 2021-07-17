@@ -3,6 +3,13 @@ Searches RCDB.com for r/rollercoasters users
 
 Users of reddit.com/r/rollercoasters can mention u/RCDBot in a post comment and the bot will reply with RCDB.com links to the rides and/or parks listed with the post title square brackets.
 
+## Usage
+In the comment of a r/rollercoasters post, just type
+```reddit
+u/RCDBot
+```
+and the bot will reply with links to the relevant RCDB.com webpages if a match is found.
+
 ## License
 MIT License
 
