@@ -1,0 +1,83 @@
+park_abbr = {
+
+    # Cedar Fair Parks
+    "CF": "Cedar Fair",
+    "CGA": "California's Great America",
+    "CW": "Canada's Wonderland",
+    "CP": "Cedar Point",
+    "DP": "Dorney Park",
+    "KD": "Kings Dominion",
+    "KI": "Kings Island",
+    "KBF": "Knotts Berry Farm",
+    "MA": "Michigan's Adventure",
+    "VF": "Valleyfair!",
+    "WoF": "Worlds of Fun",
+
+    # Six Flags Parks
+    "SF": "Six Flags",
+    "SFA": "Six Flags America",
+    "SFAW": "Six Flags AstroWorld",
+    "SFDL": "Six Flags Darien Lake",
+    "SFDK": "Six Flags Discovery Kingdom",
+    "SFD": "Six Flags Dubai",
+    "SFEG": "Six Flags Elitch Gardens",
+    "SFFT": "Six Flags Fiesta Texas",
+    "SFGAD": "Six Flags Great Adventure",
+    "SFGADV": "Six Flags Great Adventure",
+    "GRAD": "Six Flags Great Adventure",
+    "SFGAM": "Six Flags Great America",
+    "SFKK": "Six Flags Kentucky Kingdom",
+    "SFMM": "Six Flags Magic Mountain",
+    "SFNE": "Six Flags New England",
+    "SFNO": "Six Flags New Orleans",
+    "SFO": "Six Flags Ohio",
+    "SFOG": "Six Flags over Georgia",
+    "SFOGEORGIA": "Six Flags over Georgia",
+    "SFOT": "Six Flags Over Texas",
+    "SFSTL": "Six Flags St. Louis",
+    "SFWOA": "Six Flags Worlds of Adventure",
+    "LR": "La Ronde",
+    "GE": "Great Escape",
+
+    # Sea World/Busch Parks
+    "BGT": "Busch Gardens Tampa",
+    "BGW": "Busch Gardens Williamsburg",
+    "SWO": "Sea World Orlando",
+    "SWSA": "Sea World San Antonio",
+    "SWSD": "Sea World San Diego",
+
+    # Universal Parks
+    "USF": "Universal Studios Florida",
+    "IOA": "Universal Studios Islands of Adventure",
+    "USH": "Universal Studios Hollywood",
+    "USJ": "Universal Studios Japan",
+    "USS": "Universal Studios Singapore",
+
+    # Walt Disney Parks
+    "MK": "Walt Disney World Magic Kingdom",
+    "MGM": "Walt Disney World Disney's Hollywood Studios",
+    "AK": "Walt Disney World - Disney's Animal Kingdom",
+    "DL": "Disneyland",
+    "DCA": "Disney's California Adventure",
+    "DLP": "Disneyland Paris",
+    "TDL": "Tokyo Disneyland",
+    "TDS": "Tokyo DisneySea",
+    "HKDL": "Hong Kong Disneyland",
+
+    # Small chain/Independents/Closed
+    "CLP": "Canobie Lake Park",
+    "DW": "Dollywood",
+    "EG": "Elitch Gardens",
+    "HP": "Hersheypark",
+    "HW": "Holiday World",
+    "IB": "Indiana Beach",
+    "KK": "Kentucky Kingdom",
+    "KW": "Kennywood",
+    "LC": "Lake Compounce",
+    "MTO": "Mt. Olympus Theme Park",
+    "NU": "Nickelodeon Universe",
+    "SCBB": "Santa Cruz Beach Boardwalk",
+    "SDC": "Silver Dollar City",
+    "WA": "Wild Adventures",
+    "GL": "Geauga Lake"
+}
